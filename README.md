@@ -5,4 +5,4 @@
     * HTML5 
     * CSS3
     * JavaScript
-* Link: 
+* Link: https://tic-tac-toe-hbt.netlify.app/
